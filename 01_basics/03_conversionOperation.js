@@ -21,10 +21,14 @@ let BooleanisLoggedIn = Boolean(isLoggedIn)
 
 // console.log(typeof isLoggedIn);
 // console.log(isLoggedIn);
-console.table([isLoggedIn, typeof isLoggedIn, BooleanisLoggedIn, typeof BooleanisLoggedIn])
+// console.table([isLoggedIn, typeof isLoggedIn, BooleanisLoggedIn, typeof BooleanisLoggedIn])
 
 // 1 => number/true
 // 10 => number/true
 // 0 => number/false
 // "ujjawal" => string/true
 // "" => string/false
+
+// ********************** Operations ***********************
+
+ 
